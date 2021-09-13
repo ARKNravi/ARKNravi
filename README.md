@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @ARKNravi
-- 👀 I’m interested in Life
-- 🌱 I’m currently learning Coding
-- 📫 How to reach me MyRav#5392
+- 👋 Hi, My name is Ananda Ravi Kuntadi u can call me ravi my username on every social median and game is ARKNravi, im a college student, i'm currently still learning coding on my university and i also play games like genshin impact, Apex Legend, League of Legend, and other games. U can contact me on my discord MyRav#5392 i will online on everyday 09.00 -21.00. Thx for reading this I hope u have a good day :)
 
