@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Ravi from Indonesia <br><br>- 🔭 I’m working as Backend Developer & Machine Learning (sometimes)<br>- 📚 I'm currently learning Android Kotlin & MLOps <br>- ⚡ In my free time I play League Of Legends</p>
+<p align="left">I'm Ravi from Indonesia <br><br>- 🔭 I’m working as Backend Developer (Mostly) & Machine Learning (sometimes)<br>- 📚 I'm currently learning Android Kotlin & MLOps & Backend <br>- ⚡ In my free time I play League Of Legends</p>
 
 ###
 
